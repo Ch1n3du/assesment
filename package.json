@@ -4,7 +4,8 @@
   "description": "A simple REST API to manage task using Express",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node src/index.js"
   },
   "author": "Ch1n3du",
   "license": "ISC",
